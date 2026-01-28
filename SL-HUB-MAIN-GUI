@@ -1,4 +1,4 @@
-local Games = {
+Games Games = {
     [3101667897] = "https://raw.githubusercontent.com/Skidder-69/Public/refs/heads/main/SL-Hub-Legend%2BOf-Spees", -- Legend Of Speed
     [3623096087] = "https://raw.githubusercontent.com/Skidder-69/Public/refs/heads/main/SL-Hub-Muscle-Legend",     -- Muscle Legends
 }
